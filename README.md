@@ -8,7 +8,7 @@ Este repositório contém o código-fonte desenvolvido para a disciplina de Mate
 
 - **Assunto Foco: _Recursividade_**
 
-- **Linguagem:**
+- **Linguagem: _Python_**
 
 #### Como executar
 
