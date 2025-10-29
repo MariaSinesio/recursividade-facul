@@ -2,7 +2,7 @@
 
 #### Sobre o projeto
 
-Este repositório contém o código-fonte desenvolvido para a disciplina de Matemática Discreta. O objetivo principal é demonstrar e aplicar o conceito de recursividade na linguagem Java, representando sequências numéricas como sequência de Fibonacci.
+Este repositório contém o código-fonte desenvolvido para a disciplina de Matemática Discreta. O objetivo principal é demonstrar e aplicar o conceito de recursividade na linguagem Python, representando sequências numéricas como sequência de Fibonacci.
 
 - **Disciplina: _Matemática Discreta_**
 
