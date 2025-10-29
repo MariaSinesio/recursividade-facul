@@ -25,8 +25,8 @@ git clone https://github.com/MariaSinesio/recursividade-facul.git
 ##### Autores
 
 1. Mia sinésio(Eu mesma)
-2. Juan
-3. Kay
+2. 
+3. 
 4. ...
 5. ...
 
